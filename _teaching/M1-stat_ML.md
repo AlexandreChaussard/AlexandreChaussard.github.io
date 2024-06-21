@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/M1-stat_ML
 venue: "Sorbonne Université, M1"
-date: 2023-2024
+date: 2023-09-30
 location: "Paris France"
 ---
 

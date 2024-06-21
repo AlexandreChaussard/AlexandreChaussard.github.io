@@ -15,3 +15,5 @@ My main research topics include:
 - Deep Learning
 - Generative models
 - Variational inference
+- Structured learning
+- Microbiome data analysis

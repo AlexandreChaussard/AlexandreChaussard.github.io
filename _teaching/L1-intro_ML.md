@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/L1-intro_ML
 venue: "Sorbonne Université, L1"
-date: 2023-2024
+date: 2023-09-30
 location: "Paris France"
 ---
 
