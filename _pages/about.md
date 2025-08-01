@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal page! I am a PhD candidate in Machine Learning, currently affiliated with Sorbonne Université in Paris. 
+Welcome to my personal page! I am a PhD candidate in Machine Learning, currently affiliated with Sorbonne Université in Paris, under the supervision of [Sylvain Le Corff](https://sylvainlc.github.io/), [Anna Bonnet](https://annabonnet.github.io/) and [Harry Sokol](https://sites.google.com/site/harrysokol/home). 
 My work focuses on generative models for microbiome analysis, as thoroughly described on [theses.fr](https://theses.fr/s383410).
 
 My current research topics include:
