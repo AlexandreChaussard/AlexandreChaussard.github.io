@@ -49,20 +49,5 @@
       "url": "https://link.springer.com/article/10.1007/s11222-025-10668-w",
       "summary": "We introduce a generative model for microbiome data analysis using taxonomic relationships. Mathematical analysis of the model is at the core of the study."
     }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
   ]
 }
