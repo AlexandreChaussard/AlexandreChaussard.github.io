@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching over the years.
 nav: true
 nav_order: 6
 ---
