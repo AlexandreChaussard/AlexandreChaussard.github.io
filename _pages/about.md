@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. CNRS, Laboratoire de Probabilités, Statistique et Modélisation, LPSM, Sorbonne Université, F-75005 Paris, France.
 

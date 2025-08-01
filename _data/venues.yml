@@ -2,10 +2,10 @@
   url: https://arxiv.org/
   color: "#FF6F61"
 
-"Statistics and Computing":
+"Stats. & Comp.":
   url: https://link.springer.com/journal/11222
-  color: "#36FF90"
+  color: "#73D1B3"
 
-"BMC Bioinformatics":
+"BMC Bioinfo.":
   url: https://bmcbioinformatics.biomedcentral.com/
   color: "#6AECFC"

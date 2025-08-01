@@ -1,16 +1,27 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: 
 nav: true
 nav_order: 4
 ---
 
+## Packages
+
+Here you can find a list of my packages and libraries that I have developed or contributed to. You can also find the source code on GitHub.
+
+{% if site.data.repositories.packages %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+## GitHub stats
+
 {% if site.data.repositories.github_users %}
-
-## GitHub users
-
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.liquid username=user %}
@@ -36,12 +47,3 @@ nav_order: 4
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
