@@ -459,25 +459,11 @@ ninja.data = [{
           window.open("https://github.com/AlexandreChaussard", "_blank");
         },
       },{
-        id: 'social-hal',
-        title: 'HAL',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://cv.hal.science/alexandre-chaussard", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/alexandre-chaussard-1653621b6", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0001-4561-3797", "_blank");
         },
       },{
         id: 'social-scholar',
