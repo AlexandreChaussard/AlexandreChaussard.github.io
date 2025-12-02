@@ -466,6 +466,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/alexandre-chaussard-1653621b6", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-4561-3797", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
