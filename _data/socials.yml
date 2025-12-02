@@ -12,7 +12,7 @@ email: alexandre.chaussard@sorbonne-universite.fr # your email address
 # flickr_id: # your flickr id
 github_username: AlexandreChaussard # your GitHub user name
 # gitlab_username: # your GitLab user name
-hal_id: alexandre-chaussard # your HAL id (https://hal.science/)
+# hal_id: alexandre-chaussard # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
@@ -24,7 +24,7 @@ hal_id: alexandre-chaussard # your HAL id (https://hal.science/)
 linkedin_username: alexandre-chaussard-1653621b6 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0009-0001-4561-3797 # your ORCID ID
+# orcid_id: 0009-0001-4561-3797 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
