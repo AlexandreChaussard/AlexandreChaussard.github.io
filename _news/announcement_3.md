@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-SCAI workshop Machine learning and AI to analyze gut microbiota - Practical sessions on microbial applications.
+SCAI workshop ["AI and nutrition health"](https://scai.sorbonne-universite.fr/public/events/view/cc7f8216ec539065d663/2) - Practical sessions on microbial applications.

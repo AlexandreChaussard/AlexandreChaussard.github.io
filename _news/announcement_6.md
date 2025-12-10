@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 	
-30 minutes talk on microbiome modelling using Poisson Log-Normal models and applications to disease diagnosis at "IA & Alimentation" Summer School 2025 at Sorbonne Université, SCAI.
+30 minutes talk on microbiome modelling using Poisson Log-Normal models and applications to disease diagnosis at ["IA & Alimentation"](https://scai.sorbonne-universite.fr/public/events/view/2b29c6a718bb3fcb694f/15) Summer School 2025 at Sorbonne Université, SCAI.

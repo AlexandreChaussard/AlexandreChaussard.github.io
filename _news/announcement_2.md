@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-JDS 2024 - 15 minutes talk on theoretical foundations and practical interest of "Tree-based variational inference for Poisson log-normal models".
+15 minutes talk at [55th Journée de statistique de la SFdS](https://jds2024.sciencesconf.org/) on theoretical foundations and practical interest of "Tree-based variational inference for Poisson log-normal models".

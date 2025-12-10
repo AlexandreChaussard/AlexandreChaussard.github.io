@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 	
-15 minutes talk at the 56th "Journées de Statistique de la SFdS", Marseille on TaxaPLN applications for microbiome-trait association. 
+15 minutes talk at the [56th Journées de Statistique de la SFdS](https://jds2025.sciencesconf.org/), Marseille on TaxaPLN applications for microbiome-trait association. 
