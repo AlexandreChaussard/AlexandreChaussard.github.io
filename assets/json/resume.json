@@ -40,14 +40,5 @@
       "endDate": "2023-09-01",
       "courses": ["Probability and Statistics", "Computer Science", "Algorithms", "Machine Learning"]
     }
-  ],
-  "publications": [
-    {
-      "name": "Tree-based variational inference for Poisson log-normal models",
-      "publisher": "Statistics and Computing",
-      "releaseDate": "2025-08-23",
-      "url": "https://link.springer.com/article/10.1007/s11222-025-10668-w",
-      "summary": "We introduce a generative model for microbiome data analysis using taxonomic relationships. Mathematical analysis of the model is at the core of the study."
-    }
   ]
 }
