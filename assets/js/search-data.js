@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A short description of my education and publications. This is not yet complete, but will be updated in the near future!",
+          description: "A short description of my education and publications. Click the PDF to display the full CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/CV_Alexandre_Chaussard.pdf";
           },
         },{id: "nav-teaching",
           title: "Teaching",
