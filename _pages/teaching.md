@@ -17,3 +17,9 @@ Exercises and practicals beginner level course on statistics and machine learnin
 Exercises and practicals course on numerical probabilities and computational statistics. The course covers advanced topics in data generation, notably Monte Carlo simulation, basics in Markov Chain Monte Carlo (MCMC) methods, and variational inference. It is designed for students with a solid background in probability and statistics.
 
 *Heads of the course*: [Vincent Lemaire](https://perso.lpsm.paris/~vlemaire/site.html), [Sylvain Le Corff](https://sylvainlc.github.io/).
+
+## Statistiques computationnelles et machine learning - Master 1
+### 2024-2025 Sorbonne Université
+Practicals course on MCMC, expectation-maximization and variational inference. The course is designed for students with a solid background in probability and statistics.
+
+*Heads of the course*: [Arnaud Guyader](https://perso.lpsm.paris/~aguyader/), [Maxime Sangnier](https://perso.lpsm.paris/~msangnier/), [Sylvain Le Corff](https://sylvainlc.github.io/).
