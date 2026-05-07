@@ -13,3 +13,7 @@
 "Gastroenterology":
   url: https://www.gastrojournal.org/
   color: "#7167BF"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#8762B5"
