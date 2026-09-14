@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>E4.227</p>
+    <p>E4.226</p>
     <p>22 place de l’Agronomie</p>
     <p>91120 Palaiseau</p>
 
