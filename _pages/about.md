@@ -2,16 +2,16 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CNRS, Laboratoire de Probabilités, Statistique et Modélisation, LPSM, Sorbonne Université, F-75005 Paris, France.
+subtitle: <a href='#'>Affiliations</a>. Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA Paris-Saclay, F-91120 Palaiseau, France.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>15-25 209</p>
-    <p>5 place Jussieu, 75005</p>
-    <p>Paris, France</p>
+    <p>E4.227</p>
+    <p>22 place de l’Agronomie</p>
+    <p>91120 Palaiseau</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,11 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal page! I am a PhD candidate in Machine Learning, currently affiliated with Sorbonne Université in Paris, under the supervision of [Sylvain Le Corff](https://sylvainlc.github.io/), [Anna Bonnet](https://annabonnet.github.io/) and [Harry Sokol](https://sites.google.com/site/harrysokol/home). 
-My work focuses on generative models for microbiome analysis, as thoroughly described on [theses.fr](https://theses.fr/s383410).
+Welcome to my personal page! I am an assistant professor at AgroParisTech, working in machine learning for multiomics applications. Previously, I did my PhD at [LPSM](https://www.lpsm.paris/) (Sorbonne Université) under the supervision of [Sylvain Le Corff](https://sylvainlc.github.io/), [Anna Bonnet](https://annabonnet.github.io/) and [Harry Sokol](https://sites.google.com/site/harrysokol/home). You can find my PhD manuscript [here](https://theses.hal.science/tel-05677030).
 
 My current research topics include:
 - Generative models
-- Variational inference
+- Variational inference in structured probabilistic models
 - Microbiome analysis
-- Deep learning
+- Deep learning for biology
